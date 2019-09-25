@@ -1,0 +1,11 @@
+1
+9 2
+front
+dequeue
+enqueue 1
+enqueue 2
+enqueue 3
+front
+dequeue
+dequeue
+front
