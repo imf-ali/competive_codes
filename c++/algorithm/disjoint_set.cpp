@@ -56,7 +56,7 @@ int main()
   int n;
 
   int *arr= new int[n];
-  int *size=new size[n];
+  int *size=new int[n];
 
   
 
